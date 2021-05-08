@@ -1,8 +1,8 @@
 
 const moviesData = [
     { id: Math.random(), 
-        title: "Tom && Jerry", 
-        img: "https://m.media-amazon.com/images/M/MV5BYzE3ODhiNzAtOWY4MS00NTdiLThmNDctNDM4NjRiNGFmYjI1XkEyXkFqcGdeQXVyMTI2ODM1ODUw._V1_UY1200_CR165,0,630,1200_AL_.jpg",
+        title: "NADER && Chargui", 
+      img:"https://tse3.mm.bing.net/th?id=OIP.WBt71ccY-W1Yvc27L3C0XwHaEK&pid=Api&P=0&w=283&h=160",
         description: "A chaotic battle ensues between Jerry Mouse, who has taken refuge in the Royal Gate Hotel, and Tom Cat, who is hired to drive him away before the day of a big wedding arrives.",
                             rating: 5,
                         video :"https://www.youtube.com/watch?v=kP9TfCWaQT4" },
